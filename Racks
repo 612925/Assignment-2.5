@@ -1,0 +1,7 @@
+Racks in Hadoop cluster:
+
+Racks are there in hadoop clusters for proper arrangement.They consist of slave machines with a rack switch at the top of each rack.
+It is  a collection of many nodes that are connected to the same network rack switch.This implies that all the nodes are rack-aware.
+The network bandwidth between two nodes on different racks is less than the network bandwidth between between two nodes on the same rack.
+Racks are useful for checking for replication and fault tolerance.This is done by replicating the data 
+of one node on another node in a different rack in the form of blocks.A pipelime is built in this same manner.
