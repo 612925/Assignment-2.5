@@ -1,0 +1,10 @@
+Clusters:
+A cluster is a group of computers that work under the supervision of a big data technology.
+These clusters enable high availability and share resources to support parallel processing and storage requirements.
+
+Hadoop Clusters:
+Hadoop cluster is a type of cluster used for storing and analyzing large datasets. 
+These data may be structured or unstructured.A hadoop cluster consists of low cost commodity computers,
+unlike high end servers.It follows master slave architecture,one machine is designated as Name Node and 
+other commodity nodes are called job trackers/Datanode.
+Hadoop cluster increases the speed of analyzing data and makes it manageable.
